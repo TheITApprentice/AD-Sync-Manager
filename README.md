@@ -2,6 +2,9 @@
 
 AD Sync Manager is a c# Windows application designed to streamline the management of Active Directory synchronization with Microsoft Azure Active Directory. It provides a user-friendly interface that empowers administrators to initiate and monitor synchronization processes, view logs, manage credentials, and configure AD Sync servers.
 
+![AD Sync Manager Demo](https://s3.ezgif.com/tmp/ezgif-3-a8bb1e46eb.gif)
+
+
 ## Features
 
 - **Initiate Delta and Full Synchronization**: Easily trigger delta or full synchronization cycles with just a few clicks.
