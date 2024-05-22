@@ -1,41 +1,48 @@
 # AD Sync Manager
 
-AD Sync Manager is a c# Windows application designed to streamline the management of Active Directory synchronization with Microsoft Azure Active Directory. It provides a user-friendly interface that empowers administrators to initiate and monitor synchronization processes, view logs, manage credentials, and configure AD Sync servers.
+AD Sync Manager is a powerful C# Windows application designed to enhance the management of Active Directory (AD) synchronization with Microsoft Azure Active Directory (Azure AD). This tool is crafted for administrators who need a more efficient, intuitive way to handle synchronization tasks, view logs, manage credentials, and configure AD Sync settings—all from a user-friendly interface.
 
 ![AD Sync Manager Demo](https://s3.ezgif.com/tmp/ezgif-3-a8bb1e46eb.gif)
 
+## Key Features
 
-## Features
-
-- **Initiate Delta and Full Synchronization**: Easily trigger delta or full synchronization cycles with just a few clicks.
-- **View Synchronization Logs**: Access detailed logs to monitor the synchronization process and identify potential issues.
-- **Manage Credentials**: Securely store and retrieve domain admin credentials for authentication during synchronization.
-- **Set AD Sync Server**: Configure the AD Sync server for your environment, ensuring synchronization targets the correct server.
-- **Open-Source**: AD Sync Manager is an open-source project, allowing you to review, contribute, and verify the integrity of the code.
+- **Accelerated Synchronization**: Quickly apply changes such as password resets or AD organizational unit updates with immediate synchronization to Azure AD.
+- **One-Click PowerShell Commands**: Execute essential PowerShell commands for synchronization directly from the GUI, enhancing ease of use and reducing the need for command line expertise.
+- **Real-Time Event Log Viewing**: Access and manage event logs remotely from the app GUI, providing critical insights without the need for separate tools.
+- **Comprehensive Log Management**: Easily access detailed synchronization logs to monitor processes and diagnose issues in real time.
+- **Credential Management**: Securely manage and store domain admin credentials needed for synchronization tasks.
+- **Server Configuration**: Seamlessly set and modify AD Sync server settings to target the correct server in your environment.
+- **Open-Source Initiative**: Participate in or review the codebase to ensure integrity and contribute to continual improvement.
 
 ## Getting Started
 
-To get started with AD Sync Manager, follow these steps:
+Follow these steps to set up and start using AD Sync Manager:
 
 1. Download the latest release from the [Releases](https://github.com/TheITApprentice/AD-Sync-Manager/releases) page.
-2. Install the application on a machine with access to your Active Directory environment.
-3. Launch AD Sync Manager and follow the on-screen instructions to set up and configure the application.
+2. Install the application on a machine with network access to your Active Directory environment.
+3. Launch AD Sync Manager and follow the on-screen instructions to configure the application.
+
+## Video Tutorial
+
+Learn how to maximize the use of AD Sync Manager by watching our detailed tutorial:
+
+[![Watch the Tutorial](https://img.youtube.com/vi/dhjsE9yL-K4/0.jpg)](https://www.youtube.com/watch?v=dhjsE9yL-K4&t=10s)
 
 ## Contributing
 
-We welcome contributions to AD Sync Manager! Whether you want to report a bug, suggest a new feature, or submit a pull request, please follow our [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Check our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
-AD Sync Manager is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-If you encounter any issues or have questions about AD Sync Manager, please open an issue in the [Issues](https://github.com/TheITApprentice/AD-Sync-Manager/issues) section of this repository.
+If you encounter any issues or have any questions about the AD Sync Manager, please don't hesitate to contact us or open an issue in the [Issues](https://github.com/TheITApprentice/AD-Sync-Manager/issues) section of this repository.
 
 ## Acknowledgments
 
-AD Sync Manager wouldn't be possible without the following open-source projects and resources:
+Special thanks to the open-source projects and resources that make AD Sync Manager possible:
 
 - [PowerShell](https://github.com/PowerShell/PowerShell)
 - [ADSync Module](https://docs.microsoft.com/en-us/windows-server/identity/install-adsync/install-adsync-cycle)
