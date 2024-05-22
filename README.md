@@ -14,7 +14,7 @@ AD Sync Manager is a c# Windows application designed to streamline the managemen
 
 To get started with AD Sync Manager, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/AD-Sync-Manager/releases) page.
+1. Download the latest release from the [Releases](https://github.com/TheITApprentice/AD-Sync-Manager/releases) page.
 2. Install the application on a machine with access to your Active Directory environment.
 3. Launch AD Sync Manager and follow the on-screen instructions to set up and configure the application.
 
@@ -28,7 +28,7 @@ AD Sync Manager is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have questions about AD Sync Manager, please open an issue in the [Issues](https://github.com/yourusername/AD-Sync-Manager/issues) section of this repository.
+If you encounter any issues or have questions about AD Sync Manager, please open an issue in the [Issues](https://github.com/TheITApprentice/AD-Sync-Manager/issues) section of this repository.
 
 ## Acknowledgments
 
