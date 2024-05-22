@@ -1,9 +1,6 @@
-# AD-Sync-Tool
-AD Sync Manager is a Windows application that simplifies the management of Active Directory synchronization with Microsoft Azure Active Directory.
-
 # AD Sync Manager
 
-AD Sync Manager is a powerful Windows application designed to streamline the management of Active Directory synchronization with Microsoft Azure Active Directory. It provides a user-friendly interface that empowers administrators to initiate and monitor synchronization processes, view logs, manage credentials, and configure AD Sync servers.
+AD Sync Manager is a c# Windows application designed to streamline the management of Active Directory synchronization with Microsoft Azure Active Directory. It provides a user-friendly interface that empowers administrators to initiate and monitor synchronization processes, view logs, manage credentials, and configure AD Sync servers.
 
 ## Features
 
